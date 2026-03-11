@@ -1,0 +1,11 @@
+TypeError: Unexpected ? at index 19, expected end: /flags/:challengeId?; visit https://git.new/pathToRegexpError for info
+    at consumeUntil (C:\Users\JASCINTA\Downloads\simuwork\backend\node_modules\path-to-regexp\dist\index.js:153:19)
+    at parse (C:\Users\JASCINTA\Downloads\simuwork\backend\node_modules\path-to-regexp\dist\index.js:157:26)
+    at pathToRegexp (C:\Users\JASCINTA\Downloads\simuwork\backend\node_modules\path-to-regexp\dist\index.js:267:58)
+    at Object.match (C:\Users\JASCINTA\Downloads\simuwork\backend\node_modules\path-to-regexp\dist\index.js:237:30)
+    at matcher (C:\Users\JASCINTA\Downloads\simuwork\backend\node_modules\router\lib\layer.js:86:23)
+    at new Layer (C:\Users\JASCINTA\Downloads\simuwork\backend\node_modules\router\lib\layer.js:93:62)
+    at router.route (C:\Users\JASCINTA\Downloads\simuwork\backend\node_modules\router\index.js:428:17)
+    at Router.<computed> [as get] (C:\Users\JASCINTA\Downloads\simuwork\backend\node_modules\router\index.js:447:24)
+    at Object.<anonymous> (C:\Users\JASCINTA\Downloads\simuwork\backend\routes\cheatDetectionRoutes.js:22:8)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
