@@ -2,6 +2,12 @@
 
 A comprehensive skill-building platform with AI mentoring, coding challenges, and real-world scenario training.
 
+<img width="1894" height="1035" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/753a822e-d1b7-4e90-8a85-a697c9e57b21" />
+<img width="1872" height="1063" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/a006d7a7-66cb-4cff-bbaa-395e39decfa3" />
+<img width="1892" height="1055" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/4d15ea45-0c2b-4611-9110-4f7f7586e260" />
+
+
+
 ## 📚 Development Roadmap
 
 ### ✅ Step 1: Build User Dashboard
